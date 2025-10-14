@@ -1,0 +1,30 @@
+# 編譯產生的檔案
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# IDE 設定檔
+.vscode/
+*.suo
+*.user
+*.log
+
+# 暫存檔案
+*.tmp
+*.bak
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node.js
+node_modules/
+
+# 環境設定
+.env
+
+# 忽略 Content 資料夾
+Content/
