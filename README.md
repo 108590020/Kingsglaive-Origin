@@ -24,7 +24,6 @@ Kingsglaive-Origin 是一個使用 Unreal Engine 4.27 製作的第三人稱RPG�
 - 多種角色動畫與骨架
 - 特效、材質、UI 整合
 - Blueprint 視覺化遊戲邏輯設計
-- 支援自訂插件擴充
 - 多場景與地圖設計
 
 ---
@@ -34,7 +33,6 @@ Kingsglaive-Origin 是一個使用 Unreal Engine 4.27 製作的第三人稱RPG�
 - **Unreal Engine 4.27**：遊戲引擎，負責場景渲染、物理運算、動畫、特效、藍圖邏輯等
 - **Blueprints**：視覺化程式設計工具，用於設計遊戲邏輯、角色行為、互動機制
 - **FBX 動畫匯入**：角色動畫、骨架動作透過 FBX 格式匯入
-- **自訂插件（Plugins）**：擴充 Unreal Engine 功能
 - **美術資源整合**：材質、特效、UI、角色模型等
 - **技術文件與骨架模板**：方便動畫師、技術美術進行二次編輯與匯入
 
