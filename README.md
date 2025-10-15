@@ -1,6 +1,6 @@
 # DayNightSystem
 
-DayNightSystem 是一個使用 Unreal Engine 4.27 製作的第三人稱遊戲專案，整合日夜系統、角色動畫、特效、美術資源、自訂插件與完整設定，適合學習、展示或擴充 Unreal Engine 遊戲開發。
+Kingsglaive-Origin 是一個使用 Unreal Engine 4.27 製作的第三人稱RPG遊戲，整合日夜系統、角色動畫、特效、美術資源、自訂插件與完整設定，適合學習、展示或擴充 Unreal Engine 遊戲開發。
 
 ---
 
